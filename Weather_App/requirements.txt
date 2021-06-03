@@ -1,0 +1,4 @@
+folium==0.12.1
+pytz==2021.1
+sunnyday==2.0.0
+timezonefinder==5.2.0
